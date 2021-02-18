@@ -5,3 +5,4 @@
 |Model|method|parameters|logloss|submission_name|
 |--|--|--|--|--|
 |xgb||'eta':0.1,'objective':'multi:softprob','max_depth':3,'eval_metric':'mlogloss','seed':0,'lambda':2,'num_class':61, num_boost_round=100,nfold=5,early_stopping_rounds=100,verbose_eval = 50 |1.05432	|xgb_model|
+|xgb||'eta':0.1,'objective':'multi:softprob','max_depth':3,'eval_metric':'mlogloss','seed':0,'lambda':2,'alpha':2,'num_class':61, num_boost_round=200,nfold=3,early_stopping_rounds=100,verbose_eval = 50|1.05341|xgb_model_ver1|
