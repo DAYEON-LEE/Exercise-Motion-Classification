@@ -3,8 +3,13 @@
 ### 기간 : 2021.01.11 ~ 2021.02.22 17:59
 
 private **69th** (0.81065) out of **336 teams** | public **90th** (0.86932) out of **336 teams**
+  
+  
+  
+대회 마감 4~5일전에 참여하여 deep한 insight를 내지 못 하고 다양한 시도를 해보지 못 한점이 아쉽지만 xgb model과 bayesian optimization을 사용하여 조금은 성능을 올릴 수 있었던 대회였다. 파생변수를 더 만들고, deep learning model과 ensemble model을 코드공유와 토론을 통해 많은 것을 느끼고 배울 수 있었다. 아쉽지만 대회가 끝난 후에 코드 리뷰와 부족한 점들을 채워나가면서 성능을 올리는 공부를 계속 해나가야겠다.      
 
-대회 마감 4~5일전에 참여하여 deep한 insight를 내지 못 하고 다양한 시도를 해보지 못 한점이 아쉽지만 xgb model과 bayesian optimization을 사용하여 조금은 성능을 올릴 수 있었던 대회였다. 파생변수를 더 만들고, deep learning model과 ensemble model을 코드공유와 토론을 통해 많은 것을 느끼고 배울 수 있었다. 아쉽지만 대회가 끝난 후에 코드 리뷰와 부족한 점들을 채워나가면서 성능을 올리는 공부를 계속 해나가야겠다. 
+
+
 
 
 
