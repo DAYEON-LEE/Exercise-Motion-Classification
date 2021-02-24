@@ -2,7 +2,7 @@
 ## [Dacon] 운동 동작 분류 AI 경진대회
 ### 기간 : 2021.01.11 ~ 2021.02.22 17:59
 
-private **69th** (0.81065) out of **336 teams** | public **90th** (0.86932) out of **336 teams**
+최종점수 : private **69th** (0.81065) out of **336 teams** | public **90th** (0.86932) out of **336 teams**
   
   ---------------
   
